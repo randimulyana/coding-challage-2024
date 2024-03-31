@@ -1,6 +1,6 @@
 // Coding Challange 2024
 // 1/356 day
-// https://www.codewars.com/kata/57f780909f7e8e3183000078/solutions/javascript
+// https://www.codewars.com/kata/57f780909f7e8e3183000078
 
 // Cara 1
 // function grow(x) {
